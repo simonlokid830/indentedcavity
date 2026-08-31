@@ -1,0 +1,12 @@
+{
+  "name": "api-cache-dadd1f",
+  "version": "1.0.0",
+  "description": "A api cache utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["api-cache", "utility"],
+  "license": "MIT"
+}
